@@ -1,5 +1,7 @@
 # Weather Application in Java (Android)
 
+![Total Views](https://views.whatilearened.today/views/github/pmoschos/WeatherApp.svg)![GitHub last commit](https://img.shields.io/github/last-commit/pmoschos/WeatherApp) ![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 ## 🌦️ Overview
 
 This project is an **Android Weather App** built with Java. The app leverages the **OpenWeatherMap API** to fetch real-time weather data for any city entered by the user. It displays weather details such as temperature, wind speed, humidity, sunrise and sunset times, and provides a visual representation using **Picasso** for weather icons.
@@ -67,7 +69,7 @@ Below are screenshots of the app running on an Android device:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/weather-app-java.git
+   git clone https://github.com/pmoschos/WeatherApp
    ```
 
 2. **Open in Android Studio**:
