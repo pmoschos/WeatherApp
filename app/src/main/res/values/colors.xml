@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="textPrimary">#1D2837</color>
+    <color name="textSecondary">#757575</color>
+    <color name="searchBarBackground">#CCF4F4F4</color>
+    <color name="hoursText">#737A83</color>
+    <color name="searchBarIconColor">#555555</color>
+    <color name="searchBarHint">#B31D2837</color>
+    <color name="searchBarBorder">#B3B4D4FF</color>
+
+    <color name="sky">#608BC1</color>
+    <color name="color_608BC1_40">#28608BC1</color>
+    <color name="color_608BC1_45">#2D608BC1</color>
+    <color name="color_608BC1_50">#32608BC1</color>
+    <color name="color_608BC1_55">#37608BC1</color>
+    <color name="color_608BC1_60">#3C608BC1</color>
+    <color name="color_608BC1_65">#41608BC1</color>
+    <color name="color_608BC1_70">#46608BC1</color>
+    <color name="color_608BC1_75">#4B608BC1</color>
+    <color name="color_608BC1_80">#50608BC1</color>
+    <color name="color_608BC1_85">#55608BC1</color>
+    <color name="color_608BC1_90">#5A608BC1</color>
+    <color name="color_608BC1_95">#5F608BC1</color>
+    <color name="color_608BC1_100">#64608BC1</color>
+</resources>

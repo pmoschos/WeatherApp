@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OpenWeatherApp2024a</string>
+    <string name="search_city">Search city...</string>
+    <string name="weather_icon">Weather icon</string>
+    <string name="weather_description">Weather Description</string>
+    <string name="temperature">Temperature</string>
+    <string name="wind_icon">Wind icon</string>
+    <string name="wind">Wind</string>
+    <string name="feeling_temperature">Feeling temperature</string>
+    <string name="humidity">Humidity</string>
+    <string name="humidity_icon">Humidity icon</string>
+    <string name="temperature_text"><sup>°</sup></string>
+</resources>
