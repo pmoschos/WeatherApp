@@ -154,23 +154,26 @@ Below are screenshots of the app running on an Android device:
 
 ---
 
-## 🔄 License
+## 📢 Stay Updated
 
-This project is licensed under the MIT License.
+Be sure to ⭐ this repository to stay updated with new examples and enhancements!
 
----
+## 📄 License
+🔐 This project is protected under the [MIT License](https://mit-license.org/).
+
 
 ## Contact 📧
+Panagiotis Moschos - pan.moschos86@gmail.com
 
-Developed with ❤️ by Panagiotis Moschos.
-
-- GitHub: [pmoschos](https://github.com/pmoschos)
-- Email: [pan.moschos86@gmail.com](mailto:pan.moschos86@gmail.com)
+🔗 *Note: This is a Python script and requires a Python interpreter to run.*
 
 ---
+<h1 align=center>Happy Coding 👨‍💻 </h1>
 
 <p align="center">
-  <b>⭐ Don't forget to star this repository if you found it helpful! ⭐</b>
+  Made with ❤️ by 
+  <a href="https://www.linkedin.com/in/panagiotis-moschos" target="_blank">
+  Panagiotis Moschos</a> (https://github.com/pmoschos)
 </p>
 
 
