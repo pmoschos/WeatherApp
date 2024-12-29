@@ -18,6 +18,14 @@ The app emphasizes intuitive user interaction, real-time data retrieval, and vis
 
 ---
 
+## Screenshots 📸
+
+Below are screenshots of the app running on an Android device:
+
+![image](https://github.com/user-attachments/assets/f211e890-a47a-4f7e-97d4-0444f45d9d02)
+
+---
+
 ## Libraries Used 📚
 
 ### Core Libraries:
@@ -138,19 +146,6 @@ Picasso.get()
 - **Forecast View**: Add a 7-day weather forecast.
 - **Theme Support**: Introduce light and dark themes for better usability.
 
----
-
-## Screenshots 📸
-
-Below are screenshots of the app running on an Android device:
-
-**Before API Call**:
-
-![image](https://github.com/user-attachments/assets/0eabf931-fcf7-4336-9052-6b00c3cc3386)
-
-**After API Call**:
-
-![image](https://github.com/user-attachments/assets/8936f56a-bc89-4222-acaa-04d1318f19c2)
 
 ---
 

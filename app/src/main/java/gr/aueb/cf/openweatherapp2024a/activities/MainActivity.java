@@ -68,7 +68,7 @@ public class MainActivity extends AppCompatActivity {
                     String city = Objects.requireNonNull(searchInput.getText()).toString().trim();
 
                     // Construct my target url
-                    String url = "https://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=9172fac9d0b1b74505f6807281e786ec";
+                    String url = "https://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=PUT_HERE_YOUR_API_KEY";
 
                     JsonObjectRequest jsonObjectRequest = new JsonObjectRequest(Request.Method.GET, url, null, new Response.Listener<JSONObject>() {
                         @Override
