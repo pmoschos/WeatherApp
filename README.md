@@ -144,11 +144,13 @@ Picasso.get()
 
 Below are screenshots of the app running on an Android device:
 
-- **Before API Call**:
-  ![image](https://github.com/user-attachments/assets/0eabf931-fcf7-4336-9052-6b00c3cc3386)
+**Before API Call**:
 
-- **After API Call**:
-  ![image](https://github.com/user-attachments/assets/8936f56a-bc89-4222-acaa-04d1318f19c2)
+![image](https://github.com/user-attachments/assets/0eabf931-fcf7-4336-9052-6b00c3cc3386)
+
+**After API Call**:
+
+![image](https://github.com/user-attachments/assets/8936f56a-bc89-4222-acaa-04d1318f19c2)
 
 ---
 
